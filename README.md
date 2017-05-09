@@ -4,7 +4,7 @@
 ![alt tag](http://i.imgsafe.org/1636ce46ef.png)
 
 
-Repositório dos códigos demos e slides em pdf realizados durante as meetups do Coders in Rio. Tanto os códigos como os slides estarão organizados por data e por conteúdo das palestras.
+Repositório dos códigos demonstrados durante as meetups do Coders in Rio. Tanto os códigos como os slides estarão organizados por data e por conteúdo das palestras. 
 
 ## Códigos demos & Slides:
 
